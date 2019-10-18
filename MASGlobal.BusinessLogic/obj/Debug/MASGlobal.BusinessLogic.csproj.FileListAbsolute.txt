@@ -1,0 +1,26 @@
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.BusinessLogic.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.BusinessLogic.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.DataAccess.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.Entities.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.DataAccess.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.Entities.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.csproj.CopyComplete
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.BusinessLogic.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.BusinessLogic.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.DataAccess.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.Entities.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.DataAccess.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\MASGlobal.Entities.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.csproj.CopyComplete
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.BusinessLogic\obj\Debug\MASGlobal.BusinessLogic.pdb

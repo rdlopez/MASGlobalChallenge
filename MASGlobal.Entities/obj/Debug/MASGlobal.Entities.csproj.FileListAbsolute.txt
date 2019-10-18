@@ -1,0 +1,10 @@
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.Entities\bin\Debug\MASGlobal.Entities.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.Entities\bin\Debug\MASGlobal.Entities.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.Entities\obj\Debug\MASGlobal.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.Entities\obj\Debug\MASGlobal.Entities.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.Entities\obj\Debug\MASGlobal.Entities.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.Entities\bin\Debug\MASGlobal.Entities.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.Entities\bin\Debug\MASGlobal.Entities.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.Entities\obj\Debug\MASGlobal.Entities.csproj.CoreCompileInputs.cache
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.Entities\obj\Debug\MASGlobal.Entities.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.Entities\obj\Debug\MASGlobal.Entities.pdb

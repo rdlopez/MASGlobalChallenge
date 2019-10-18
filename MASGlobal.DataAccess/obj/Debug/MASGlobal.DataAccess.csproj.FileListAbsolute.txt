@@ -1,0 +1,22 @@
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.csprojAssemblyReference.cache
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\bin\Debug\MASGlobal.DataAccess.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\bin\Debug\MASGlobal.DataAccess.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\bin\Debug\MASGlobal.Entities.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\bin\Debug\MASGlobal.Entities.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.csproj.CopyComplete
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.pdb
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ruben\source\repos\MASGlobalTest\MASGlobal.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\bin\Debug\MASGlobal.DataAccess.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\bin\Debug\MASGlobal.DataAccess.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\bin\Debug\MASGlobal.Entities.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\bin\Debug\MASGlobal.Entities.pdb
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.csprojAssemblyReference.cache
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.csproj.CopyComplete
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.dll
+C:\Users\idvil\Desktop\MASGlobalTest _ flaco\MASGlobal.DataAccess\obj\Debug\MASGlobal.DataAccess.pdb
